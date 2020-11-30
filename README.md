@@ -1,5 +1,12 @@
 # Simple Dialogues
 
-TODO: Add description.
+## Summary
+A set of simple dialogues, made for NaNoGenMo 2020.
 
-TODO: Add (link to) output.
+## Preview
+```Add preview text here.
+```
+
+## Links
+[Notebook]()
+[Full text output]()
