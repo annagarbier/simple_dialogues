@@ -61,8 +61,10 @@ tongue and gum line.
 
 
 ## Source code
-* [Notebook](https://github.com/annagarbier/simple_dialogues/blob/master/generate.ipynb)
+* [Notebook](https://github.com/annagarbier/simple_dialogues/blob/master/generate_novel.ipynb)
 
+## Total word count
+50054 words
 
 ## Implementation notes
 
