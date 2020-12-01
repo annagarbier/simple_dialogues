@@ -57,7 +57,7 @@ tongue and gum line.
 
 
 ## Full text
-* [Full text output]()
+* [Full text output](https://raw.githubusercontent.com/annagarbier/simple_dialogues/master/novel.txt)
 
 
 ## Source code
