@@ -61,7 +61,7 @@ tongue and gum line.
 
 
 ## Source code
-* [Notebook]()
+* [Notebook](https://github.com/annagarbier/simple_dialogues/blob/master/generate.ipynb)
 
 
 ## Implementation notes
